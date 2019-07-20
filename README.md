@@ -47,3 +47,7 @@ Eclipse Photon on Windows 10
 ## Requirements:
 
 Java JRE
+
+## Notes:
+
+ScrollbarUI.java and RoundedBorder.java are not my original code. I copied these from the internet.
