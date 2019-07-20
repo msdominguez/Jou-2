@@ -5,6 +5,8 @@ Make a journal entry, including date, time, title, song, and entry
 
 Directs user input to text file named with time and date
 
+View journal entries in the application
+
 ## Files:
 
 MainDriver.java (main driver)
