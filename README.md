@@ -41,6 +41,8 @@ ViewEntriesPanel.java
 
 Jou-2.jar (You can just run this executable)
 
+(Other source files are the images in /bin)
+
 ## Development Environment: 
 Eclipse Photon on Windows 10
 
