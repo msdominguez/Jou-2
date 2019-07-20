@@ -1,0 +1,6 @@
+How to Use:
+- Click "New Entry" to create a new journal entry.
+- Click "View Entries" to view journal entries and edit them.
+- Click "Settings" to view setting options.
+- Click "About" to view information about the software developer.
+- Click "Quit" to exit the application.
